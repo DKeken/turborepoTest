@@ -121,6 +121,9 @@ importers:
       store:
         specifier: workspace:*
         version: link:../../packages/store
+      trends:
+        specifier: '*'
+        version: link:../../apps/trends
       ui:
         specifier: workspace:*
         version: link:../../packages/ui
